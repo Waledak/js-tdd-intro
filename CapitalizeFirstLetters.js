@@ -1,5 +1,4 @@
 
-
 // WRITE THE ACTUAL FUNCTION HERE
 function capitalizeFirstLetters(input) {
   return input.length > 0
@@ -7,5 +6,6 @@ function capitalizeFirstLetters(input) {
     
     : '';
 }
+
 
 module.exports = capitalizeFirstLetters;
